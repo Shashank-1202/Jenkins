@@ -80,7 +80,7 @@ sonar.web.port=9000
 ```sh
 sudo usermod -aG sudo sonar
 sudo passwd sonar
-# Set password to: 12345
+
 ```
 ---
 
